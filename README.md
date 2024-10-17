@@ -12,5 +12,7 @@ https://github.com/user-attachments/assets/6216b5ab-a7e4-4d1a-9a70-85560edb849b
 
 </p>
 
-
-
+# 🌟 Libraries and technologies used
+Kotlin, Jetpack Compose, Retrofit, Room, State,
+Coroutines, Navigation Component, Dagger Hilt, Paging,
+Repository, MVVM.
