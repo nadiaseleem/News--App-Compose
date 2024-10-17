@@ -4,10 +4,13 @@ News app with robust features, leveraging news  categories, multiple sources, in
 
 # 💡 Preview
 
-📱 download app apk : 
+📱 download app apk: https://www.mediafire.com/file/vjj61qzfuzczhp2/news-app-compose.apk/file
 
-<p align="center">[README.md](..%2F..%2FREADME.md)
+<p align="center">
 
-
+https://github.com/user-attachments/assets/6216b5ab-a7e4-4d1a-9a70-85560edb849b
 
 </p>
+
+
+
